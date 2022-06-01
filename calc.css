@@ -1,0 +1,27 @@
+.container{
+    text-align: center;
+    margin-top: auto;
+    background-color: pink;
+}
+table{
+    margin: auto;
+    padding: 30px;
+}
+input{
+    font-size: 35px;
+    width: auto;
+    border: 7px;
+    border-radius: 20px;
+    font-weight: bold;
+}
+button{
+    font-size: 25px;
+    height: 85px;
+    width: 85px;
+    margin: 10px;
+    border-radius: 50%;
+    background-color: rgb(190, 175, 175);
+}
+h1{
+    margin: auto;
+}
